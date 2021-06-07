@@ -1,4 +1,4 @@
-# team-profile-generator
+# Team Profile Generator
 
   
 
@@ -8,6 +8,7 @@
   - [Important Commands](#important-commands)
   - [About the Repo](#about-the-repo)
   - [Contact](#contact)
+  - [Video](#video)
   - [License](#license)
 
   ## About the Project
@@ -39,6 +40,10 @@
   Contact stevensnyderlee@gmail.com with any questions or concerns.
 
   Github: stevesnyder
+  
+  ## Video
+  
+  https://user-images.githubusercontent.com/74982034/121078359-dbbc9580-c7a6-11eb-949d-99474f55575b.mp4
 
   ---
 
